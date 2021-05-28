@@ -1,0 +1,8 @@
+This is the file created in php and
+now it is here in your local Directory
+which is /home/kapil/codes/php .
+THis is another content line by php in you text file .
+this is beeing appended to the file
+this is beeing appended to the file
+this is beeing appended to the file
+this is beeing appended to the file
